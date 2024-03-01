@@ -1,7 +1,7 @@
 name: handle_x
-description: A starting point for Dart libraries or applications.
+description: Handle utilities for common tasks in Dart.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/javikuma/handle_x
 
 environment:
   sdk: ^3.3.0
